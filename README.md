@@ -12,11 +12,11 @@ This project is a basic version of Airbnb, allowing users to list properties for
 
 ![App Screenshot](homepage.png.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](descrp.png.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](review.png.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](edit.png.png)
 
 - Search and Filters: Travelers can search for accommodations based on location, dates, property type, and other filters.
 - Booking System: Travelers can view property availability and book accommodations for specific dates.
@@ -38,7 +38,7 @@ This project is a basic version of Airbnb, allowing users to list properties for
 - Access the application in your web browser at http://localhost:8080/listings
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](login.png.png)
 
 ## Contributing
 
